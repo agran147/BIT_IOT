@@ -9,7 +9,7 @@ categories: jekyll update
 
 Program your own disco mate! Most likely you are familiar with the high tech gadgets such as Google's [Siri][siri] or Amazon's [Alexa][alexa]. In this tutorial, you will be guided through the making of a simplified personal assistant running on the [32L476GDISCOVERY] [disco] ('disco') board. 
 
-![image]({{ site.url }}/image/board2.jpg)
+![image](/images/board2.jpg )
 
 Before we jump in and get started, I'll fill you in on some personal motivations for this project. At the end of 2016, I spent a month at the [Beijing Institute of Technology][BIT] learning about the [Internet of Things] [IOT] (IOT).
 
