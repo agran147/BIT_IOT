@@ -2,7 +2,7 @@
 layout: post
 title:  "Disco Mate"
 date:   2017-01-28 18:15:08 +1100
-categories: jekyll update
+categories: blog
 ---
 
 ### Welcome to the disco!
